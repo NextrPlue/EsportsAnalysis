@@ -1,6 +1,11 @@
 # EsportsAnalysis
 First repository for esprots data science
 
+## 마크다운 첫 사용
+
+<details>
+<summary>접기/펼치기</summary>
+
 # Title1
 ## Title2
 ### Title3
@@ -61,4 +66,4 @@ print("Hello World")
 [구글](https://www.google.com/)
 
 [구글](https://www.google.com/, "클릭하면 구글로 이동합니다")
-
+</details>

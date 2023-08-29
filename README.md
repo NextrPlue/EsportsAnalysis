@@ -1,5 +1,5 @@
 # EsportsAnalysis
-First repository
+First repository for esprots data science
 
 # Title1
 ## Title2
